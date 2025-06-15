@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, mathematical modeling, algbraic combinatorics, etc.
 - 🌱 I’m currently learning more about machine learning algorithms
 - 💞️ I’m looking to collaborate on data-based projects which have a positive impact on society (in areas such as subsidized housing, healthcare, data ethics, public education, etc.)
-- 📫 How to reach me: shelburneethan@gmail.com, https://www.linkedin.com/in/ethan-shelburne-8162b6192
+- 📫 How to reach me: shelburneethan@gmail.com, www.linkedin.com/in/ethan-shelburne
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I once performed escaping from a strait-jacket while riding a unicycle
 
