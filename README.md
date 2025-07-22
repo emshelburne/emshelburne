@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emshelburne
 - 👀 I’m interested in data science, mathematical modeling, algbraic combinatorics, etc.
-- 🌱 I’m currently learning more about machine learning algorithms
+- 🌱 I’m currently learning more about unsupervised clustering algorithms
 - 💞️ I’m looking to collaborate on data-based projects which have a positive impact on society (in areas such as subsidized housing, healthcare, data ethics, public education, etc.)
 - 📫 How to reach me: shelburneethan@gmail.com, www.linkedin.com/in/ethan-shelburne
 - 😄 Pronouns: he/they
